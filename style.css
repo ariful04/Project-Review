@@ -37,7 +37,7 @@ body {
 .main-content {
   display: flex;
   justify-content: center;
-  background-image: url(/images/header-shapes\ mobile.png);
+  background-image: url(images/header-shapes\ mobile.png);
   background-repeat: no-repeat;
   background-size: cover;
   border-bottom-left-radius: 100px;
